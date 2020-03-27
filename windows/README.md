@@ -7,7 +7,7 @@ git clone https://github.com/brunogcpinheiro/automated-project-creation.git
 
 cd animated-project-creation
 
-cd windows or cd linux/macOS
+cd windows
 
 npm install or yarn install
 
